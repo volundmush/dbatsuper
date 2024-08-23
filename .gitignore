@@ -1,0 +1,5 @@
+.idea/
+dbconf.json
+lib/
+.venv/
+__pycache__/
